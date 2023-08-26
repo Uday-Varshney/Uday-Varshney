@@ -53,7 +53,7 @@
 
 <td width="25%" align="center">
 
-<span>Hibernate</span><br><br>
+<span>Firebase</span><br><br>
 
 <img height="64px" src="https://user-images.githubusercontent.com/74038190/238200431-3c16d4f2-b757-4c70-8f42-43d5dddd2c36.gif">
 
@@ -61,9 +61,9 @@
 
 <td width="25%" align="center">
 
-<span>Spring Boot</span><br><br>
+<span>Visual Studio</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
+<img height="64px" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif">
 
 </td>
 	 
