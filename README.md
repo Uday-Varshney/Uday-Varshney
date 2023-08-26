@@ -1,6 +1,92 @@
 <h1 align="center">Hi 👋, I'm Uday Varshney</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+<table align="center">
+
+<tbody>
+
+ <tr valign="top">
+
+<td width="25%" align="center">
+
+<span>Java</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>MySQL</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>Hibernate</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/hibernate.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>Spring Boot</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
+
+</td>
+	 
+</td>
+
+</tr>
+ 
+<tr valign="top">
+
+<td width="25%" align="center">
+
+<span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗖𝗦𝗦𝟯</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+
+</td>
+
+
+<td width="25%" align="center">
+
+<span>𝗚𝗶𝘁-Hub</span><br><br>
+
+<img height="64px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
+
+</td>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uday-varshney&label=Profile%20views&color=0e75b6&style=flat" alt="uday-varshney" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uday-varshney" alt="uday-varshney" /></a> </p>
