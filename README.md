@@ -1,4 +1,3 @@
-baground color=black
 <h1 align="center">Hi 👋, I'm Uday Varshney</h1>
 <h3 align="center">A passionate developer from India</h3>
 
