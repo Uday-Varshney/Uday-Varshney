@@ -6,8 +6,8 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 <h1 align="center"> 😇(Hello everyone)"Uday Varshney 👋</h1>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uditshetty&label=Profile%20views&color=0e75b6&style=flat" alt="uditshetty" /> </p>
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=uditshetty&label=Profile%20views&color=0e75b6&style=flat" alt="uditshetty" /> </p> -->
 
 
 -🔭 I’m currently working on **My Skill**
