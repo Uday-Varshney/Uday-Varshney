@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 <h1 align="center"> 😇(Hello everyone)"Uday Varshney 👋</h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3651832/screenshots/7058203/media/01ac4ec5340e8e7f0b3c53f88a22e38a.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/3651832/screenshots/7058203/media/01ac4ec5340e8e7f0b3c53f88a22e38a.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw2SY0PRpxpmZpqSJq9za1Rt&ust=1693156356890000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjK_fCK6fqAAxVsamwGHfNjD30QjRx6BAgAEAw)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uditshetty&label=Profile%20views&color=0e75b6&style=flat" alt="Uday Varshney" /> </p>
 
 
