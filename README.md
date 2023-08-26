@@ -55,7 +55,7 @@
 
 <span>Hibernate</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/hibernate.svg">
+<img height="64px" src="https://user-images.githubusercontent.com/74038190/238200431-3c16d4f2-b757-4c70-8f42-43d5dddd2c36.gif">
 
 </td>
 
@@ -77,7 +77,7 @@
 
 <span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+<img height="64px" src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif">
 
 </td>
 
@@ -85,7 +85,7 @@
 
 <span>𝗖𝗦𝗦𝟯</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+<img height="64px" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif">
 
 </td>
 
@@ -93,7 +93,7 @@
 
 <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+<img height="64px" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
 
 </td>
 
@@ -102,7 +102,7 @@
 
 <span>𝗚𝗶𝘁-Hub</span><br><br>
 
-<img height="64px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
+<img height="64px" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif">
 
 </td>
 
