@@ -20,7 +20,7 @@ baground color=black
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/udayvarshney4" target=""><img align="center" src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="udayvarshney4" height="50" width="60" /></a>
+<a href="https://twitter.com/udayvarshney4" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="udayvarshney4" height="50" width="60" /></a>
 <a href="https://linkedin.com/in/uday-varshney" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="uday-varshney" height="50" width="60" /></a>
 <a href="https://www.instagram.com/uday__varshney/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="uday-varshney" height="50" width="60" /></a>
 <a href="https://www.hackerrank.com/@k2_udayv_65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@k2_udayv_65" height="50" width="60" /></a>
