@@ -87,11 +87,6 @@
 </table>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uday-varshney&label=Profile%20views&color=0e75b6&style=flat" alt="uday-varshney" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uday-varshney" alt="uday-varshney" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/udayvarshney4" target="blank"><img src="https://img.shields.io/twitter/follow/udayvarshney4?logo=twitter&style=for-the-badge" alt="udayvarshney4" /></a> </p>
 
 - 🌱 I’m currently learning **Android dev**
 
