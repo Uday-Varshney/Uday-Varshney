@@ -39,7 +39,7 @@
 
 <span>Java</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/java.svg](https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif)">
 
 </td>
 
