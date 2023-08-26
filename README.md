@@ -1,11 +1,20 @@
 <h1 align="center">Hi 👋, I'm Uday Varshney</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Udit+Varshney!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<h1 align="center"> 😇(Hello everyone)"Udit Varshney 👋</h1>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3651832/screenshots/7058203/media/01ac4ec5340e8e7f0b3c53f88a22e38a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uditshetty&label=Profile%20views&color=0e75b6&style=flat" alt="uditshetty" /> </p>
 
 
+-🔭 I’m currently working on **My Skill**
+
 - 🌱 I’m currently learning **Android dev**
+
+- 👨‍💻 All of my projects are available at [My Portfolio](https://uditshetty.github.io/)
 
 - 📫 How to reach me **uv.uday.varshney@gmail.com**
 
